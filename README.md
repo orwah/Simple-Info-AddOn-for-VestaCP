@@ -1,4 +1,4 @@
-# Simple Info Module for VestaCP
+# Simple Info AddOn for VestaCP
 
 
 simple try to make a welcome page , so beginner clients can know how to use your hosting services ,
