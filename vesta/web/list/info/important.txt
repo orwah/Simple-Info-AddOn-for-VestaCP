@@ -1,0 +1,1 @@
+Make Sure that File 'info.txt' owner is admin:admin (or you can set permission to 666 instead of changing owner).

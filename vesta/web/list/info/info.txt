@@ -1,0 +1,98 @@
+<TABLE width=800>
+<TBODY>
+<TR height=30 vAlign=top>
+<TD align=right><B>User Name :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>%user%</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>Register Date:</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>%date%</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B></B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><BR>
+<HR>
+<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>Domains :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>%domainslist%<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>IP Adress :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>%ip%</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>Physical Directory :</B><BR>your Files Path on disk</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>/home/%user%/web/%domain%/public_html</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B></B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><BR>
+<HR>
+<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>Control Panel :</B><BR>login to your site Admin</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><A href="https://%domain%:8083" target=_blank>%domain%:8083</A> , or :<BR><A href="https://%ServerDomain%:8083" target=_blank>https://%ServerDomain%:8083</A> (if your domain has problems).</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B></B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><BR>
+<HR>
+<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>Web Mail :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><A href="http://%domain%/webmail" target=_blank>%domain%/webmail</A></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>web File Manager :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><A href="http://%domain%/filemgr" target=_blank>%domain%/filemgr</A> | or : <A href="http://%ServerDomain%/filemgr" target=_blank>http://%ServerDomain%/filemgr</A></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>DataBase Manager :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><A href="http://%domain%/phpmyadmin" target=_blank>%domain%/phpmyadmin</A></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>website Statistics :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><A href="http://%domain%/vstats/" target=_blank>%domain%/vstats/</A></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B></B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><BR>
+<HR>
+<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>FTP Login :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>to control your Files (just like Web File Manager but from Desktop)<BR>you can download free FTP Client from here : <A href="https://filezilla-project.org/download.php?type=client" target=_blank>(FileZilla)</A><BR><BR>- Host : is your Domain Name (%domain%) <BR>- User/Pass : your main username &amp; password ,same as Control Panel .</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B></B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><BR>
+<HR>
+<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>EMail Login :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>- User is your Email (ex: mail@%domain%) <BR>- Password the password you specify for it.<BR><BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right>outlook :</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>for Using outlook Email manager from your desktop :<BR>- incoming mail server : mail.%domain% <BR>- outgoing mail server : mail.%domain% <BR>- UserName : Email Address. <BR>- Password : you specify for email.<BR>- SMTP port : 25 is default BUT many ISPs banned it (you can receive but can't send) <BR>&nbsp;&nbsp;so you can use  2525 or 465 or 587 instead of it (Email Account -&gt; more setting -&gt; Advanced).</TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B></B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><BR>
+<HR>
+<BR></TD></TR>
+<TR height=30 vAlign=top>
+<TD align=right><B>Get Help :</B></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>send us Email at : %ServerMail%</TD></TR>
+<TR height=50>
+<TD width=200 align=right></TD>
+<TD width=25>&nbsp;&nbsp;&nbsp;</TD>
+<TD width=575>&nbsp; </TD></TR></TBODY></TABLE>
