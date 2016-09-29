@@ -31,6 +31,11 @@ then enter as one of your user accounts and try the info Tab to se the info page
 
 please feel free to change and enhance this code , it is just simple example no copyrights
 
+
+See Wiki :
+https://github.com/orwah/Simple-Info-AddOn-for-VestaCP/wiki
+
+
 regards 
 
 _______________
