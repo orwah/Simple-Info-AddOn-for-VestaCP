@@ -1,4 +1,6 @@
 # Simple Info AddOn for VestaCP
+version : 0.9 (17/11/2016)
+for Vesta : 0.9.8-16
 
 
 simple try to make a welcome page , so beginner clients can know how to use your hosting services ,
@@ -35,6 +37,11 @@ please feel free to change and enhance this code , it is just simple example no 
 See Wiki :
 https://github.com/orwah/Simple-Info-AddOn-for-VestaCP/wiki
 
+
+
+# History 
+-17/11/2016 make INFO is the default start page for User Account
+-17/11/2016 Fix IP List Bug
 
 regards 
 
