@@ -30,7 +30,7 @@ foreach ($maindomains as $key => $value) { $U_DomainList.= htmlentities($key)."<
 
 $U_Date = $maindomains[$U_Domain]['DATE'];
 
-$U_IP = [$U_Domain]['IP'];
+$U_IP = $maindomains[$U_Domain]['IP'];
 
 //$U_Alias = [$U_Domain]['ALIAS']
 
