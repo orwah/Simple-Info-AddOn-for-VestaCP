@@ -36,19 +36,20 @@ you can set the info page from here , and preview how it will apear .
 then enter as one of your user accounts and try the info Tab to se the info page you configure 
 
 
-please feel free to change and enhance this code , it is just simple example no copyrights
-
-
-See Wiki :
-https://github.com/orwah/Simple-Info-AddOn-for-VestaCP/wiki
-
-
 
 # History 
 
 -17/11/2016 make INFO is the default start page for User Account
 
 -17/11/2016 Fix IP List Bug
+
+
+--
+
+please feel free to change and enhance this code , it is just simple example no copyrights
+
+See Wiki :
+https://github.com/orwah/Simple-Info-AddOn-for-VestaCP/wiki
 
 
 regards 
