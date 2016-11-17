@@ -18,7 +18,7 @@ and they will see it on thier pages as :
 /home/username/web/userdomain.com/public_html
 depending on what is the username and userdomain for every user.
  
-INSTALL:
+#INSTALL:
 
 1- Upload Folder : vesta\web\list\info to your server
 
@@ -45,8 +45,11 @@ https://github.com/orwah/Simple-Info-AddOn-for-VestaCP/wiki
 
 
 # History 
+
 -17/11/2016 make INFO is the default start page for User Account
+
 -17/11/2016 Fix IP List Bug
+
 
 regards 
 
