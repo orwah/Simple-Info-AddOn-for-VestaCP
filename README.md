@@ -1,10 +1,15 @@
 # Simple Info AddOn for VestaCP
 version : 0.9 (17/11/2016)
+
 for Vesta : 0.9.8-16
 
 
 simple try to make a welcome page , so beginner clients can know how to use your hosting services ,
  and you can put your support / email or any thing you think that users must see it  .
+
+
+![](https://raw.githubusercontent.com/orwah/Simple-Info-AddOn-for-VestaCP/master/main.png)
+
 
 Variables like  %domain% , %user% , %ip% etc ... :
 will take the specific values for every user , for example you can put physical Directory in your admin page as
