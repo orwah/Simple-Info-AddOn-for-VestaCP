@@ -1,6 +1,11 @@
 <?php
 error_reporting(NULL);
 session_start();
+// Check user
+if ($_SESSION['user'] != 'admin') {
+    header('Location: /list/info');
+    exit;
+}
 
 $TAB = 'info';
 
