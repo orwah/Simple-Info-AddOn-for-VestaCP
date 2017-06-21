@@ -2,7 +2,7 @@
 error_reporting(NULL);
 session_start();
 
-$TAB = 'info';
+$TAB = 'INFO';
 
 // Main include
 include($_SERVER['DOCUMENT_ROOT']."/inc/main.php");
