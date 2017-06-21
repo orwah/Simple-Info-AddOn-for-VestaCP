@@ -12,7 +12,8 @@ INSTALL:
 1- Upload Folder : vesta\web\list\info to your server
 2- take backup for both files "panel.html" on web\templates\admin\ and web\templates\user\
 3- Upload web\templates\admin\panel.html and Upload web\templates\user\panel.html
-4- change the File Owner/group for 'info.txt'  to : admin:admin 
+4- if you want to make info page as client default first page , replace the file vesta\web\index.php
+5- change the File Owner/group for 'info.txt'  to : admin:admin 
 (or you can set permission to 666 instead of changing owner).
 
 now you can go to vesta admin , you will see new "Info" tab after backup .
